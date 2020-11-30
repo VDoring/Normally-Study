@@ -1,0 +1,6 @@
+1) https://sunstar2.tistory.com/1882
+cmd에 powercfg list해서 확인 후 powercfg -delete (GUID)해서 삭제할 수 있다.
+하지만 효과는 없는 듯하다...
+
+2) GeForce Experience에 들어가서 설정 버튼 클릭 후 게임칸에 간다.
+거기서 BATTERY BOOST옵션을 해제한다.
