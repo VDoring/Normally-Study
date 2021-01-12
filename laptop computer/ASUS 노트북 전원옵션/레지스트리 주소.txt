@@ -1,0 +1,4 @@
+\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\be337238-0d82-4146-a960-4f3749d470c7
+
+에서 Attributes의 값을 2로 설정한다.
+그리고 윈도우의 전원옵션에 들어가서 각 모드의 세부설정에 들어가면 CPU전력과 관련된 옵션이 추가되어있을것이다.
